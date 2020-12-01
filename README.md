@@ -1,1 +1,1 @@
-# StrukovaVY
+# JUnit
